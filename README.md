@@ -3,3 +3,13 @@
     1. PITSTOP! howdowemakerunningthesetestseasier?
 3. Programatic verification
 4. Push to GitHub
+
+# About
+
+This is a crowd sourcing app!
+
+# Getting started
+
+## Requirements
+
+## Quickstart
